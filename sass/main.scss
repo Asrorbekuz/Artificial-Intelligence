@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Regular;
+    src: url(../assets/Fonts/MateSC-Regular.ttf);
+}
+@import "utils/veribles";
+@import "utils/mixins";
+@import "utils/margin&padding";
+@import "layout/header";
+@import "layout/footer";
+@import "utils/grid";
